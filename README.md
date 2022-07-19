@@ -1,1 +1,1 @@
-# troll
+print("hello world")
